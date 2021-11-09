@@ -1,2 +1,2 @@
 # Car_dekho.com_price_prediction
-CarDekho.com wants to know the complete scenario about dealers, consumers, accessories, and related business. 
+##  Our vision is to construct a complete ecosystem for consumers and car manufacturers, dealers and related businesses such that consumers have easy and complete access to not only buying and selling cars, but also manage their entire ownership experience, be it accessories, tyres, batteries, insurance or roadside assistance. 
